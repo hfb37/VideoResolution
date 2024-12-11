@@ -1,7 +1,5 @@
 #include "VideoResolution.h"
 #include <iostream>
-#include <regex>
-#include <opencv2/videoio.hpp>
 
 
 int main() {
